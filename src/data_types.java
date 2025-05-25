@@ -1,8 +1,8 @@
 public class data_types {
 
     public static void main(String[] args){
-        //swap two numbers without using temp variable
-        /*int a=5;
+        /*swap two numbers without using temp variable
+        int a=5;
         int b= 10;
 
         a = a+b;
